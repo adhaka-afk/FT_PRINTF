@@ -32,4 +32,4 @@ There are quite some restrictions for 42 students to comply with while writing t
 
 ## ⏳ Previous Project
 
-[libft](https://github.com/adhaka-afk/LIBFT)
+[Libft](https://github.com/adhaka-afk/LIBFT)
