@@ -24,3 +24,12 @@ https://aticleworld.com/
 https://pythontutor.com/ (for visualizing your code)
 
 There are quite some restrictions for 42 students to comply with while writing the code but if you're not a 42 student then you're technically not required to adhere to them but for the sake of challenge I would recommend doing the project with the restrictions.
+
+
+## 🚀 Next Project
+
+[GetNextLine](https://github.com/adhaka-afk/GET_NEXT_LINE)
+
+## ⏳ Previous Project
+
+[libft](https://github.com/adhaka-afk/LIBFT)
